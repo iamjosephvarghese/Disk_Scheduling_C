@@ -193,7 +193,8 @@ void fcfs()
 
          for(j=i_val;j<n;j++)
          {
-                 total += abs(head - queue[j]);199                 head=
+                 total += abs(head - queue[j]);
+                 head=
  ////////////////////////////to be completed
 
  }
